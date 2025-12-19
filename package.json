@@ -14,12 +14,13 @@
     "bot",
     "oauth1.0a"
   ],
-  "author": "",
+  "author": "Omkar Bhondve",
   "license": "ISC",
   "dependencies": {
-    "twitter-api-v2": "^1.17.2",
-    "node-cron": "^3.0.3",
+    "axios": "^1.13.2",
+    "dotenv": "^16.4.1",
     "express": "^4.18.2",
-    "dotenv": "^16.4.1"
+    "node-cron": "^3.0.3",
+    "twitter-api-v2": "^1.17.2"
   }
 }

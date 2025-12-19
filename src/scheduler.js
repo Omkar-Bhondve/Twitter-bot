@@ -12,11 +12,12 @@ import { getRandomTweet } from "./tweets.js";
  * Optimized for maximum engagement throughout the day
  */
 const SCHEDULE = [
-  { time: "0 9 * * *", label: "09:00 AM" }, // Early morning peak (users starting work/school)
-  { time: "30 10 * * *", label: "10:30 AM" }, // Mid-morning boost (high activity during work hours)
-  { time: "0 13 * * *", label: "01:00 PM" }, // Lunchtime recharge (break time scrolling)
-  { time: "0 15 * * *", label: "03:00 PM" }, // Afternoon reset (post-lunch motivation)
-  { time: "0 18 * * *", label: "06:00 PM" }, // Evening wind-down (end of workday)
+  { time: "01 12 * * *", label: "12:01 PM" }, // Testing - posts at 11:51 AM
+  // { time: "0 9 * * *", label: "09:00 AM" }, // Early morning peak (users starting work/school)
+  // { time: "30 10 * * *", label: "10:30 AM" }, // Mid-morning boost (high activity during work hours)
+  // { time: "0 13 * * *", label: "01:00 PM" }, // Lunchtime recharge (break time scrolling)
+  // { time: "0 15 * * *", label: "03:00 PM" }, // Afternoon reset (post-lunch motivation)
+  // { time: "0 18 * * *", label: "06:00 PM" }, // Evening wind-down (end of workday)
 ];
 
 const TIMEZONE = "Asia/Kolkata";

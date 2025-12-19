@@ -4,101 +4,106 @@
  */
 
 export const tweets = [
-  "Many people chase validation from others, thinking approval equals success. Real growth begins when you trust yourself and your choices. When your values guide you, confidence replaces doubt and progress becomes natural. #Mindset #Growth",
-
-"Discipline is choosing long-term respect over short-term comfort. Motivation fades, habits stay. The moment you stop waiting to feel ready and start acting anyway is the moment your life quietly starts changing. #Consistency #SelfGrowth",
-
-"Not everyone will understand your journey, and that’s okay. You don’t need universal approval to move forward. Focus on progress, not applause, and let results speak louder than explanations ever could. #Focus #Mindset",
-
-"Growth feels uncomfortable because it forces you to leave familiar versions of yourself behind. If things feel hard right now, that’s often a sign you’re leveling up instead of standing still. Keep going. #GrowthMindset",
-
-"Stop measuring your worth by reactions, likes, or opinions. Real confidence is built when you keep promises to yourself, even when no one is watching. That quiet discipline builds unshakable self-trust. #SelfRespect",
-
-"Most breakthroughs happen after the phase where quitting feels tempting. If you’re tired, rest—but don’t walk away. Consistency during boring or difficult phases is what separates results from regret. #Consistency",
-
-"Success doesn’t come from knowing everything. It comes from learning, adjusting, and showing up again after mistakes. Progress rewards action, not perfection. Start before you feel ready. #Learning #Growth",
-
-"Your future depends more on daily habits than on big plans. Small actions done consistently create momentum, confidence, and results that motivation alone can never deliver. Build systems, not excuses. #Habits",
-
-"Confidence isn’t loud. It’s quiet certainty built through repeated effort. When you stop proving yourself to others and start improving yourself daily, everything shifts internally and externally. #Confidence",
-
-"You don’t need to move fast, but you do need to move forward. Even small progress beats standing still while waiting for perfect conditions. Action creates clarity, not the other way around. #Progress",
-
-"Stop overthinking outcomes and start focusing on inputs. Control your effort, discipline, and attitude. The results will take care of themselves over time. Trust the process you’re building. #Mindset",
-
-"Comfort zones feel safe, but they quietly limit your potential. Growth starts when you accept discomfort as part of progress. Temporary unease often leads to long-term confidence and strength. #Growth",
-
-"Your goals don’t need approval, validation, or explanation. They only need commitment. Work quietly, stay consistent, and let results introduce you when the time is right. #Discipline #Focus",
-
-"Success rarely arrives all at once. It builds slowly through small wins, lessons, and persistence. If today feels ordinary, remember that consistency turns ordinary days into extraordinary outcomes. #Consistency",
-
-"Self-respect grows when your actions align with your values. Every time you choose discipline over comfort, you reinforce trust in yourself. That trust becomes confidence over time. #SelfGrowth",
-
-"You’re not behind—you’re just early in your process. Comparing your chapter one to someone else’s chapter ten only creates unnecessary pressure. Focus on your lane and keep moving. #Mindset",
-
-"Clarity comes from action, not endless planning. Take the next small step, learn from it, and adjust. Momentum is created by doing, not by waiting for certainty. #Action #Growth",
-
-"Your environment shapes your behavior more than motivation ever will. Design your surroundings to support focus, discipline, and progress instead of relying on willpower alone. #Habits",
-
-"Success is built in moments no one applauds. The early mornings, quiet work, and repeated effort matter more than recognition. Keep building, even when it feels unseen. #Discipline",
-
-"Not every season is about winning publicly. Some seasons are about learning, rebuilding, and strengthening foundations. Respect the quiet phases—they prepare you for louder results. #Growth",
-
-"Fear doesn’t disappear when you wait. It shrinks when you act. Each step forward builds confidence and proves you’re capable of handling more than you think. #Courage #Mindset",
-
-"Your time is valuable. Protect it by saying no to distractions that don’t align with your goals. Focus is a skill—and it pays compound interest over time. #Focus #Productivity",
-
-"Progress feels slow until you look back. Stay consistent long enough and you’ll realize how far you’ve come. Trust the process, even when results aren’t immediate. #Consistency",
-
-"Confidence is earned through effort, not affirmation. Every small promise you keep to yourself strengthens belief in your own abilities. Build that trust daily. #SelfTrust",
-
-"Hard work doesn’t always show results immediately, but it always leaves evidence. Skills sharpen, discipline strengthens, and mindset evolves before success becomes visible. #Growth",
-
-"Stop waiting for motivation to show up. Start with discipline and let motivation catch up later. Action creates energy, not the other way around. #Discipline",
-
-"Your goals don’t care about excuses. They respond to consistency, patience, and effort. Show up even on days when progress feels invisible. #Mindset",
-
-"Success isn’t about intensity once in a while. It’s about showing up daily, even when enthusiasm fades. That’s where real progress is made. #Consistency",
-
-"Comparison steals focus and drains confidence. Use others as inspiration, not measurement. Your journey unfolds at its own pace—and that’s exactly how it should be. #Growth",
-
-"Strong habits beat strong motivation. Motivation fluctuates, but habits keep you moving forward when energy is low. Build systems that work even on hard days. #Habits",
-
-"Growth requires patience. Results often arrive after discipline has already done its work. Keep going even when the payoff isn’t visible yet. #Mindset",
-
-"Every skill you admire was once learned through repetition and mistakes. Progress favors those willing to look foolish before becoming confident. #Learning",
-
-"You don’t need massive change overnight. Small improvements done daily compound into powerful transformation over time. Stay consistent and trust the process. #SelfGrowth",
-
-"Your future self is built by today’s choices. Every disciplined decision adds a brick to the life you’re creating. Choose intentionally. #Mindset",
-
-"Confidence grows when actions match intentions. Stop promising yourself change and start proving it through consistent effort. #Discipline",
-
-"Long-term success is rarely flashy. It’s built through boring routines executed consistently. Master the basics and results will follow. #Consistency",
-
-"Focus on progress, not perfection. Small steps taken consistently outperform perfect plans that never start. Action matters more than intention. #Growth",
-
-"Your mindset determines how far effort can take you. Train it like a skill through discipline, reflection, and consistency. #Mindset",
-
-"Success doesn’t require permission. If something matters to you, pursue it with intention and consistency—regardless of outside opinions. #Focus",
-
-"Consistency is a form of self-respect. Every time you show up for your goals, you reinforce belief in yourself. #SelfGrowth",
-
-"Fear often signals growth. If something feels challenging, it might be exactly where development is happening. Lean into it. #GrowthMindset",
-
-"Results lag behind effort. Keep working even when outcomes aren’t immediate. Discipline compounds quietly before it shows loudly. #Consistency",
-
-"Strong foundations matter more than quick wins. Build skills, habits, and mindset patiently. Sustainable success takes time. #Growth",
-
-"You become confident by doing difficult things consistently. Comfort rarely builds capability. #Mindset",
-
-"Progress is personal. Measure success by effort and improvement, not comparison. #SelfGrowth",
-
-"Discipline is choosing what you want most over what you want now. That decision changes everything over time. #Discipline",
-
-"Focus on becoming better, not just being seen. Results follow improvement, not attention. #Growth",
-
-"Your daily actions shape your future more than occasional bursts of motivation. Consistency wins. #Habits"
+  "The biggest barrier to wealth isn’t your income; it is your ego. Most people spend money they haven't earned to buy things they don't need to impress people they don't even like. True wealth is the ability to say no to status games. #PersonalFinance #WealthBuilding #Mindset",
+  "Rich people focus on the 'Cost of Opportunity,' while poor people focus only on the 'Sticker Price.' When you spend $1k on a phone, you lose the $15k that money could have become over 30 years in the market. Think in decades, not days. #Investing #WealthBuilding #FinanceTips",
+  "Financial freedom is not about having a billion dollars; it is about having the autonomy to control your own time. If you have to answer to a boss you dislike, you aren't wealthy—you are just a high-paid prisoner of your own lifestyle. #PersonalFinance #Freedom #Mindset",
+  "Money psychology is 80% of the battle. You can have the best spreadsheets, but if you cannot control your emotions during a 20% market correction, you will never build lasting wealth. Discipline always beats intelligence. #Investing #MoneyMindset #PersonalFinance #Stocks",
+  "Your middle-class habits are keeping you trapped. You work for a paycheck and save what is left. The wealthy pay themselves first, invest in assets, and use that cash flow to pay their bills. Flip the script to change your life. #WealthBuilding #PassiveIncome #Investing",
+  "Most people view money as a tool for consumption, but the wealthy view money as a tool for production. Every dollar is a tiny soldier you send out to capture more soldiers. Stop killing your army on designer clothes and deploy it. #Investing #WealthBuilding #MoneyLessons",
+  "The ultimate flex isn't a Rolex; it is a Tuesday morning spent doing exactly what you want because your assets covered your expenses. Don't trade your life force for shiny objects that depreciate the moment you buy them. #PersonalFinance #FinancialFreedom #WealthBuilding",
+  "Why do people fear investing more than they fear inflation? Inflation is a guaranteed 5% loss of purchasing power every year. Investing is a historical 10% gain. You are choosing a certain loss over a probable win. Do the math. #Investing #PersonalFinance #WealthBuilding",
+  "Wealth is what you don't see. It is the cars not bought, the watches not worn, and the luxury vacations deferred. High income is just cash flow; wealth is the equity behind the scenes that provides security when the world gets volatile. #PersonalFinance #WealthBuilding #Tips",
+  "The hardest part of the journey to $1,000,000 is the first $100,000. It requires a radical shift in identity and extreme discipline. Once you hit six figures, the math starts doing the heavy lifting for you. Sacrifice your 20s now. #Investing #WealthBuilding #FinanceTips",
+  "Success in finance is less about making 'big moves' and more about avoiding 'big mistakes.' You don't need to find the next Amazon; you just need to avoid high-interest debt and panic selling. Consistency is the most underrated skill. #Investing #PersonalFinance #Success",
+  "Stop looking for 'get rich quick' schemes and start looking for 'get wealthy slowly' systems. Compounding is a back-loaded miracle. The first 10 years feel like nothing, but the last 10 years will change your family tree forever. #Investing #WealthBuilding #CompoundInterest",
+  "Your environment dictates your net worth. If you spend your time with people who complain about the economy, you will stay broke. If you spend time with people discussing assets and tax strategies, you will inevitably grow. #WealthBuilding #PersonalFinance #MoneyMindset",
+  "The 'Poor Mindset' says: 'I can't afford that.' The 'Wealthy Mindset' asks: 'How can I afford that?' One shuts down the brain; the other opens up a world of creative solutions and income-generating possibilities. Language shapes reality. #PersonalFinance #WealthBuilding #Mindset",
+  "Wealth is built by being an owner, not a consumer. When you buy a product, you help someone else get rich. When you buy shares in the company, you help yourself get rich. Stop giving your power away to corporations and own them. #Investing #WealthBuilding #PersonalFinance",
+  "The reason most people never get ahead is that they increase their spending every time they get a raise. This is called lifestyle creep, and it is a silent killer of dreams. Keep your expenses flat as your income rises and invest. #PersonalFinance #WealthBuilding #Savings",
+  "Real wealth is having a quiet mind and a loud bank account. Most people have the opposite: a flashy lifestyle fueled by an empty savings account and mounting debt. Don't trade your peace of mind for the temporary validation of others. #WealthBuilding #PersonalFinance #Peace",
+  "You don't have a resource problem; you have a priority problem. You say you can't afford to invest $200 a month, yet you spend it on streaming and takeout. Your future self is begging you to audit your bank statements tonight. #PersonalFinance #WealthBuilding #Budgeting",
+  "Investing is not gambling if you have a long-term horizon. Gambling is trying to double your money in a week. Investing is participating in global growth over decades. One is a casino; the other is a wealth machine. Know the difference. #Investing #WealthBuilding #Stocks",
+  "The most expensive thing you can own is a closed mind. The world of finance is changing rapidly with AI and blockchain, yet most people cling to old advice. Be a student of the game and never stop learning how money works today. #Investing #WealthBuilding #Crypto #Fintech",
+  "If you want to build wealth, you need a system for your savings. Set up an automatic transfer to your brokerage the day you get paid. If you wait until the end of the month to see what is left, the answer will always be zero. #PersonalFinance #WealthBuilding #Automation",
+  "Your credit score is a financial weapon—learn how to use it. A high score gets you lower interest rates, which saves you hundreds of thousands over a lifetime on mortgages. Treat your score like your reputation because it truly is. #PersonalFinance #CreditScore #WealthBuilding",
+  "An emergency fund is not just for emergencies. It is 'Freedom' money. It gives you the power to quit a toxic job or start a business. Without a cash cushion, you are a slave to your next paycheck. Aim for 6 months of expenses. #PersonalFinance #WealthBuilding #EmergencyFund",
+  "The 50/30/20 rule is the simplest way to manage your budget. 50% for needs, 30% for wants, and 20% for investments. If you can’t make this work, you have an income problem. Focus on increasing your value to the market. #PersonalFinance #WealthBuilding #Budgeting #Growth",
+  "Debt is a double-edged sword. High-interest credit card debt is a financial cancer. Low-interest mortgage debt can be a lever to build massive equity. Learn to distinguish between 'Consumer Debt' and 'Productive Debt' today. #PersonalFinance #WealthBuilding #DebtFree",
+  "The best investment you can make is in your own earning capacity. A $1,000 course that teaches you a high-income skill can return 100x in a single year. Don't just invest in the stock market; invest in the 'You' market first. #PersonalFinance #WealthBuilding #Investing",
+  "Stop obsessing over $5 lattes and start obsessing over your $5,000 recurring expenses. Saving on coffee won't make you a millionaire, but optimizing housing and taxes will. Focus on the 'Big Wins' that actually move the needle. #PersonalFinance #WealthBuilding #SavingTips",
+  "Net worth is your total assets minus your total liabilities. If you own a $500k house but owe $450k on it, you aren't a half-millionaire. You have $50k in equity. Stop bragging about what you control and focus on what you own. #PersonalFinance #WealthBuilding #NetWorth",
+  "Insurance is the foundation of a solid financial plan. One medical emergency can wipe out a decade of diligent saving if you aren't protected. Don't be 'penny wise and pound foolish' by skipping out on essential coverage. #PersonalFinance #WealthBuilding #InsuranceTips",
+  "Tax-advantaged accounts like the 401k or IRA are gifts from the government. By not using them, you are voluntarily giving away 30% of your wealth over time. Maximize your tax shelters before you open a standard brokerage. #PersonalFinance #WealthBuilding #Investing #Taxes",
+  "Passive income is the holy grail of personal finance. Whether it is dividends, rentals, or digital products, the goal is to decouple your time from your earnings. If you don't make money while you sleep, you will work forever. #PersonalFinance #WealthBuilding #PassiveIncome",
+  "Inflation is the silent thief. If your money is sitting in a traditional savings account earning 0.01% interest, you are losing 4% of your wealth every year. Cash is a call option, but too much cash is a slow-motion disaster. #PersonalFinance #WealthBuilding #Inflation",
+  "The 'Rule of 72' is a simple way to see how fast your money will double. Divide 72 by your annual rate of return. At 7%, your money doubles every 10 years. Understanding this math makes the long-term game much more exciting. #Investing #WealthBuilding #PersonalFinance",
+  "Budgeting isn't about restriction; it is about intention. It is telling your money where to go instead of wondering where it went. When you give every dollar a job, you eliminate the guilt of spending on things you love. #PersonalFinance #WealthBuilding #MoneyManagement",
+  "The goal is to be rich, not to look rich. Looking rich is easy—just take out a huge loan for a German car. Being rich is hard—it requires saying no to shiny objects today so you can own your time tomorrow. Choose substance. #PersonalFinance #WealthBuilding #MoneyMindset",
+  "Building a 'Moat' around your finances means having multiple streams of income. If you only have one source of revenue, you are one 'restructuring' away from disaster. Diversify your skills and your assets to stay safe. #PersonalFinance #WealthBuilding #SideHustle #Money",
+  "Most financial advice is too complicated. Spend less than you earn. Invest the difference in low-cost index funds. Wait 30 years. That’s it. People try to make it complex so they can sell you expensive solutions you don't need. #Investing #WealthBuilding #PersonalFinance",
+  "Your 20s are for learning and compounding. Your 30s are for earning and scaling. Your 40s are for optimizing and protecting. Don't try to live a level 10 life on a level 2 income. Build the foundation now for later. #PersonalFinance #WealthBuilding #Investing #Success",
+  "A high salary is a great tool, but it is not wealth. There are doctors making $400k who are broke because of debt, and janitors who became millionaires through steady investing. It is not about what you make; it’s what you keep. #PersonalFinance #WealthBuilding #Investing",
+  "The best time to start investing was 20 years ago. The second best time is today. Don't let the 'lost time' discourage you from taking action now. A late start is infinitely better than no start at all. Get in the game. #Investing #WealthBuilding #PersonalFinance #Stocks",
+  "Index funds are the ultimate 'cheat code' for wealth. By buying an S&P 500 fund, you are betting on the 500 most profitable companies. You don't need to pick winners; you just need to own the entire market and let it grow. #Investing #WealthBuilding #Stocks #IndexFunds",
+  "Dividend growth investing is like planting a tree that grows more fruit every year. You buy shares of quality companies that raise payouts annually. Eventually, the dividends cover your entire lifestyle. That is freedom. #Investing #WealthBuilding #PassiveIncome #Stocks",
+  "The stock market is a device for transferring money from the impatient to the patient. If you check your portfolio every day, you are more likely to make emotional mistakes. Set it, forget it, and check back in a decade. #Investing #WealthBuilding #PersonalFinance #Stocks",
+  "Bear markets are where the real money is made. When everyone else is panicking and selling, the wealthy are shopping for discounts. A 20% drop in the market is a 20% sale on the world’s greatest companies. Change your view. #Investing #WealthBuilding #Stocks #BearMarket",
+  "Diversification is protection against ignorance. If you aren't a professional analyst, don't try to pick 3 individual stocks. Spread your risk across sectors and asset classes. It won't make you rich overnight, but it will keep you rich. #Investing #WealthBuilding #Stocks",
+  "The 'PE Ratio' is just one metric, but understanding valuation is key. Don't buy a stock just because it is 'going up.' Buy it because the underlying business is generating cash and is priced fairly. Price is what you pay. #Investing #WealthBuilding #Stocks #Valuation",
+  "Growth stocks offer the potential for massive gains, but value stocks offer the stability of proven earnings. A healthy portfolio usually has a mix of both. Don't chase the 'hot' AI stock at the peak; balance your greed. #Investing #WealthBuilding #Stocks #AIInvesting",
+  "Compound interest is the 8th wonder of the world. $10,000 invested at 8% becomes $21,000 in 10 years, but it becomes $100,000 in 30 years. The real gains happen at the very end of the curve. Don't interrupt the process. #Investing #WealthBuilding #PersonalFinance #Tips",
+  "Small-cap stocks can be volatile, but they are often where the next giants are born. Allocating a small percentage of your portfolio to emerging companies can provide the 'alpha' you need to beat the market averages. #Investing #WealthBuilding #Stocks #MarketAnalysis",
+  "Real Estate vs. Stocks: Real estate offers leverage and tax benefits, while stocks offer liquidity and low maintenance. Both are great, but the best investors usually own both. Don't limit yourself to one asset class. #Investing #WealthBuilding #RealEstate #Stocks",
+  "The most important part of an investing plan is the 'Exit Strategy.' Why are you investing? For retirement, a house, or legacy? Knowing your 'Why' determines your risk tolerance and your asset allocation. Don't sail blind. #Investing #WealthBuilding #PersonalFinance",
+  "Rebalancing your portfolio is the only way to 'buy low and sell high' automatically. When stocks soar, you sell some to buy bonds. This keeps your risk in check and forces you to take profits when the market is euphoric. #Investing #WealthBuilding #PortfolioManagement",
+  "ETFs have revolutionized investing. They offer the diversification of a fund with the ease of trading a stock. Look for funds with low 'Expense Ratios.' Over 30 years, high fees can steal 1/3 of your total wealth. #Investing #WealthBuilding #PersonalFinance #ETFs",
+  "The 'Magnificent Seven' tech stocks have driven the market recently, but don't forget about international markets. Emerging economies offer different growth profiles and lower valuations. A global portfolio is resilient. #Investing #WealthBuilding #Stocks #Global",
+  "Focus on 'Free Cash Flow' when analyzing companies. Earnings can be manipulated by accounting tricks, but cash is king. A company that generates more cash than it spends is a fortress that can survive any economic storm. #Investing #WealthBuilding #Stocks #CashFlow",
+  "Don't invest money you will need in the next 3 to 5 years. The stock market is too volatile for short-term goals. Use High-Yield Savings Accounts for your down payment and keep your long-term capital in the market. #PersonalFinance #WealthBuilding #Investing #Savings",
+  "A 'Margin Call' is the fastest way to go from hero to zero. Never use excessive leverage to buy volatile assets. If the market dips and you are forced to sell at the bottom, you lose the ability to recover. Use debt sparingly. #Investing #WealthBuilding #RiskManagement",
+  "The secret to staying wealthy is 'Capital Preservation.' Once you have won the game, stop playing with high-risk chips. Shift your focus from 'How much can I make?' to 'How much can I keep?' The final boss of finance. #PersonalFinance #WealthBuilding #Investing #Wealth",
+  "Stock buybacks are a silent way companies return value to shareholders. By reducing the number of shares, each share you own becomes more valuable. Look for companies with a history of reducing share count. #Investing #WealthBuilding #Stocks #Shareholders",
+  "Technical analysis is great for entry points, but fundamental analysis is what builds wealth. Charts tell you what people are doing today; balance sheets tell you what the company will do in five years. Combine both. #Investing #WealthBuilding #Stocks #Trading",
+  "Bitcoin is not just a digital currency; it is a censorship-resistant store of value. In an era of unlimited money printing, having an asset with a fixed supply of 21 million is the ultimate hedge against incompetence. #Crypto #Bitcoin #WealthBuilding #Investing",
+  "Ethereum is the 'World Computer.' It provides the infrastructure for DeFi and smart contracts. While Bitcoin is digital gold, ETH is digital oil—it fuels an entire ecosystem of applications that could reshape the economy. #Crypto #Ethereum #WealthBuilding #Web3",
+  "Self-custody is the most important lesson in crypto. If your coins are on an exchange, they aren't technically yours. 'Not your keys, not your coins.' Use a hardware wallet to secure your digital assets today. #Crypto #Security #WealthBuilding #Bitcoin",
+  "Don't chase 'shitcoins' hoping for a 1,000x return. Most of them go to zero within 18 months. Focus on the 'Blue Chips' of the crypto world—BTC and ETH. Building a solid core is more profitable than gambling on hype. #Crypto #Investing #WealthBuilding #Bitcoin #ETH",
+  "The 'Halving' is a programmed event in Bitcoin that reduces the supply of new coins. Historically, this leads to significant price appreciation over the following year. Understanding these mechanics is key to success. #Crypto #Bitcoin #WealthBuilding #Investing",
+  "Stablecoins like USDC allow you to keep your purchasing power on the blockchain without the volatility of BTC. They are the bridge between the old financial system and the new one. Use them to move funds quickly. #Crypto #Stablecoins #WealthBuilding #DeFi",
+  "Web3 is about ownership. In Web2, you are the product. In Web3, you own your data, your identity, and your assets through tokens. We are moving from the 'Read-Write' web to the 'Read-Write-Own' web. This is power. #Web3 #Crypto #WealthBuilding #Technology",
+  "The 'Lindy Effect' suggests that the longer something has survived, the longer it is likely to survive. Bitcoin has been around for 15+ years despite being 'banned' many times. It is battle-tested for the digital age. #Crypto #Bitcoin #WealthBuilding #Investing",
+  "DeFi (Decentralized Finance) allows you to lend and borrow without a middleman. You can earn yields that traditional banks could never offer because there are no expensive skyscrapers to pay for. The code is the bank. #DeFi #Crypto #WealthBuilding #Investing",
+  "Layer 2 solutions are solving the scalability issues of Ethereum. They make transactions fast and cheap while maintaining security. This is the 'Broadband' moment for crypto—adoption is about to accelerate rapidly. #Crypto #Ethereum #WealthBuilding #Technology",
+  "Crypto volatility is a feature, not a bug. It is the price you pay for the opportunity to achieve asymmetric returns. If you can’t handle a 50% drawdown, you don't deserve the 10x gains. Manage your position size. #Crypto #Investing #WealthBuilding #Bitcoin",
+  "NFTs are more than just overpriced images. They are verifiable certificates of digital ownership. From real estate titles to concert tickets, the technology behind NFTs will eventually touch every industry. #Web3 #NFTs #WealthBuilding #Technology #Crypto",
+  "AI and Blockchain are the two most disruptive technologies of our time. AI processes data at scale; Blockchain provides the truth layer for that data. The intersection of these two will create trillion-dollar firms. #AI #Blockchain #WealthBuilding #Future",
+  "The 'Fear and Greed Index' is a great tool for crypto investors. Buy when the market is in 'Extreme Fear' and everyone is calling it a scam. Sell when the market is in 'Extreme Greed' and the hype is peaked. #Crypto #Investing #WealthBuilding #Bitcoin #Tips",
+  "Institutional adoption of crypto is finally here. With Spot ETFs and major banks offering custody, the 'Risk' of crypto going to zero has drastically decreased. You are no longer early, but you are still ahead. #Crypto #Investing #WealthBuilding #Bitcoin #ETFs",
+  "Staking is the digital equivalent of earning interest. By locking up your coins to secure the network, you earn a percentage return in that same asset. It is a great way to grow your stack passively over time. #Crypto #Staking #PassiveIncome #WealthBuilding",
+  "Blockchain transparency is a double-edged sword. Every transaction is public and permanent. While this eliminates fraud, it also requires you to be careful with your privacy. Learn about 'On-Chain' analytics today. #Crypto #Blockchain #WealthBuilding #Security",
+  "The greatest risk in crypto is not the price going down; it is the risk of a 'Rug Pull' or a smart contract hack. Always research the team and the code audits before putting your hard-earned money in. #Crypto #Investing #WealthBuilding #Security #Tips",
+  "Bitcoin is a 'Long Volatility' asset. It thrives on chaos, uncertainty, and the failure of traditional systems. As global debt levels reach highs, BTC serves as an insurance policy against the fiat regime. #Crypto #Bitcoin #WealthBuilding #Investing #Gold",
+  "Treat your crypto portfolio like a venture capital fund. Expect most projects to fail, but the 1 or 2 that succeed will more than make up for the losses. Keep your BTC/ETH core at 80% for long-term safety. #Crypto #Investing #WealthBuilding #Portfolio",
+  "Being 'Right' too early is the same as being 'Wrong' in the markets. You might have the perfect thesis, but if the market doesn't agree for 5 years, you will go broke waiting. Manage your liquidity carefully. #Investing #WealthBuilding #PersonalFinance #Stocks",
+  "The most dangerous words in investing are: 'This time is different.' Human nature never changes. Greed, fear, and cycles will always exist. Whether it is Dotcom or Crypto, the patterns remain the same. #Investing #WealthBuilding #PersonalFinance #History",
+  "A high GPA doesn't guarantee a high Net Worth. School teaches you how to be a good employee, not a good investor. Financial literacy is a self-taught skill. Take responsibility for your education today. #PersonalFinance #WealthBuilding #MoneyMindset #Success",
+  "Inflation is a tax on those who save and a subsidy for those who own assets. The government prints money, which devalues your cash but inflates your house price. Move from the 'Savor' to the 'Owner' category. #PersonalFinance #WealthBuilding #Inflation #Taxes",
+  "Working 40 hours a week for 40 years just to retire on 40% of your income is a bad deal. The '40-40-40' plan is a trap. We live in the digital age—leverage allow you to compress 40 years of wealth into 10. #PersonalFinance #WealthBuilding #Freedom #Mindset",
+  "Retirement is not an age; it is a financial number. Once your passive income exceeds your living expenses, you are retired, regardless of whether you are 25 or 65. Focus on the number, not the calendar. #PersonalFinance #WealthBuilding #Retirement #Freedom",
+  "Most people are 'Income Rich' but 'Asset Poor.' They have the big house and fancy car but no equity. If they stopped working today, they would be broke in months. Don't build a life that requires a treadmill. #PersonalFinance #WealthBuilding #MoneyMindset",
+  "The best hedge against a bad economy is a high-value skill set. No one can 'inflate away' your ability to solve problems or write code. Assets can be taxed, but your talent stays with you always. #PersonalFinance #WealthBuilding #Skills #CareerGrowth",
+  "Most millionaires have at least 7 streams of income. If you only have one, you are playing a very dangerous game. Start a side hustle, buy a rental, or build a dividend portfolio. Diversify your survival now. #PersonalFinance #WealthBuilding #PassiveIncome #Tips",
+  "The world doesn't pay you for what you know; it pays you for the value you provide. You can read 100 books on finance, but if you don't invest a single dollar, you are still at zero. Execution is real power. #PersonalFinance #WealthBuilding #Investing #Mindset",
+  "You don't need a lot of money to start, but you do need to start to get a lot of money. The person who invests $50 a month at 20 will often beat the person who invests $500 a month at 40. Time is your best friend. #Investing #WealthBuilding #PersonalFinance #Time",
+  "Financial advisors often have a 'Conflict of Interest.' They get paid to sell products, not to make you rich. Learn the basics yourself so you can spot the fees. No one will care about your money more than you. #PersonalFinance #WealthBuilding #Investing #Tips",
+  "The economy and the stock market are not the same thing. The economy is today; the stock market is the future. Don't stop investing just because the news is bad. Often, bad news is the best time to buy. #Investing #WealthBuilding #Stocks #Economics #News",
+  "Wealth is the ability to fully experience life. If you are working 80 hours a week to make millions but have no time for your family, you are failing. True success is the balance of health and wealth. #PersonalFinance #WealthBuilding #Success #Mindset #Life",
+  "Don't take financial advice from people who are broke. It sounds obvious, but people do it every day. Seek out mentors who have already achieved what you want. Success leaves clues; follow the footprints. #PersonalFinance #WealthBuilding #Investing #Mentorship",
+  "The most underrated investment is your health. You can't enjoy your millions if you are in a hospital bed. A clean diet and regular exercise are the best 'long-term growth' strategies you will ever find. #PersonalFinance #WealthBuilding #HealthIsWealth #Tips",
+  "Wealth is a marathon, not a sprint. If you try to run too fast, you will burn out and make mistakes. Slow and steady wins the race. The goal is to stay in the game for 50 years, not to win in 5 months. #Investing #WealthBuilding #PersonalFinance #Patience",
+  "If you want to be in the top 1% financially, you have to be willing to do what the 99% won't do. That means living below your means and taking calculated risks while others play it safe. Different results require actions. #PersonalFinance #WealthBuilding #Mindset",
+  "Money is like fire: it can cook your food or burn your house down. It is a powerful servant but a terrible master. If you control your money, it will provide a life of comfort. If it controls you, it won't. #PersonalFinance #WealthBuilding #MoneyManagement #Life",
+  "Final reminder: The best time to plant a tree was 20 years ago. The second best time is today. Stop waiting for the 'perfect' market or the 'right' moment. The market is never perfect. Start your journey today. #Investing #PersonalFinance #WealthBuilding #Action",
 ];
 
 // Track last posted tweet to avoid consecutive duplicates

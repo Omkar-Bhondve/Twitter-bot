@@ -7,6 +7,7 @@ import express from "express";
 import dotenv from "dotenv";
 import { verifyCredentials } from "./twitter.js";
 import { startScheduler } from "./scheduler.js";
+import { notifyBotStarted } from "./telegram.js";
 
 dotenv.config();
 
@@ -87,6 +88,9 @@ async function startBot() {
     console.log("[INFO] ═══════════════════════════════════════════════════");
     console.log("[SUCCESS] Bot is now running 24/7!");
     console.log("[INFO] Press Ctrl+C to stop\n");
+
+    // Send Telegram notification that bot started
+    notifyBotStarted();
   });
 }
 

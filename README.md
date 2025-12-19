@@ -19,6 +19,7 @@ A production-ready Node.js automation bot that posts tweets automatically using 
 - ✅ Express health check endpoint
 - ✅ Production-ready error handling
 - ✅ No crashes on API failures
+- ✅ **Telegram notifications** (optional) - Get notified when tweets are posted!
 
 ## 📁 Project Structure
 
@@ -28,9 +29,11 @@ x-automation/
 │   ├── index.js       # Main entry point & Express server
 │   ├── twitter.js     # Twitter client (OAuth 1.0a)
 │   ├── scheduler.js   # Cron job scheduler
+│   ├── telegram.js    # Telegram notifications (optional)
 │   └── tweets.js      # Tweet pool & random selection
 ├── .env.example       # Environment variables template
 ├── .gitignore
+├── TELEGRAM_SETUP.md  # Telegram setup guide
 └── package.json
 ```
 
@@ -72,7 +75,50 @@ PORT=8080
    - Access Token
    - Access Token Secret
 
-### 4. Run the Bot
+### 4. Setup Telegram Notifications (Optional)
+
+Get instant notifications on Telegram when tweets are posted!
+
+**Step 1: Create a Telegram Bot**
+
+1. Open Telegram and search for `@BotFather`
+2. Send `/newbot` command
+3. Follow prompts to name your bot
+4. Copy the **Bot Token** (e.g., `123456789:ABCdefGHIjklMNOpqrsTUVwxyz`)
+
+**Step 2: Get Your Chat ID**
+
+1. Search for `@userinfobot` on Telegram
+2. Start a chat with it
+3. Copy your **Chat ID** (e.g., `123456789`)
+
+**Step 3: Add to `.env`**
+
+```env
+# Optional: Set account name (useful when managing multiple bots)
+ACCOUNT_NAME=Main Account
+
+# Telegram credentials
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+TELEGRAM_CHAT_ID=your_chat_id_here
+```
+
+**💡 Managing Multiple Accounts?**
+
+- Set `ACCOUNT_NAME` to identify each bot (e.g., "@username", "Personal", "Business")
+- The account name appears prominently in all notifications!
+
+**Step 4: Start the bot**
+
+1. Send `/start` to your bot on Telegram
+2. You'll receive notifications for:
+   - ✅ Bot startup
+   - 🐦 Each tweet posted (with link)
+   - ❌ Any errors
+
+> **Note:** Telegram notifications are optional. The bot works fine without them!
+
+### 5. Run the Bot
 
 ```bash
 npm start
@@ -167,6 +213,7 @@ The bot provides detailed logging:
 - twitter-api-v2
 - node-cron
 - express
+- axios
 - dotenv
 
 ## 📄 License

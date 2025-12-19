@@ -5,6 +5,7 @@
 
 import { TwitterApi } from "twitter-api-v2";
 import dotenv from "dotenv";
+import { notifyTweetPosted, notifyError } from "./telegram.js";
 
 dotenv.config();
 
@@ -48,6 +49,9 @@ export async function postTweet(text) {
     console.log("[SUCCESS] Tweet posted successfully!");
     console.log("[INFO] Tweet ID:", tweet.data.id);
 
+    // Send Telegram notification
+    await notifyTweetPosted(text, tweet.data.id);
+
     return tweet;
   } catch (error) {
     console.error("[ERROR] Failed to post tweet:", error.message);
@@ -59,6 +63,9 @@ export async function postTweet(text) {
         JSON.stringify(error.data, null, 2)
       );
     }
+
+    // Send error notification to Telegram
+    await notifyError(error.message);
 
     // Don't crash the bot - just log the error
     return null;
